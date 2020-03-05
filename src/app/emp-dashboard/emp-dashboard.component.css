@@ -1,0 +1,11 @@
+table {
+    width: 50%;
+    height: 50%;
+    border-radius: 1%;
+    align-content: center;
+  }
+  div{
+    align-content: center;
+    height: fit-content;
+    width: fit-content;
+  }

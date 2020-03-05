@@ -1,0 +1,19 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "outDir": "./out-tsc/app",
+    "types": ["jquery","ej.web.all"]
+  },
+  "files": [
+    "src/main.ts",
+    "src/polyfills.ts",
+    "node_modules/jqwidgets-scripts/jqwidgets-ts/angular_jqxgrid.ts"
+  ],
+  "include": [
+    "src/**/*.ts"
+  ],
+  "exclude": [
+    "src/test.ts",
+    "src/**/*.spec.ts"
+  ]
+}

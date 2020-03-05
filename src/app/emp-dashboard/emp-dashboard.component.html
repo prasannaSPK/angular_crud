@@ -1,0 +1,32 @@
+
+<jqxGrid #myGrid [theme]="energyblue" 
+(onCellbeginedit)="myGridOnCellBeginEdit($event)" (onCellendedit)="myGridOnCellEndEdit($event)"
+[width]="getWidth()" [source]="dataAdapter" [columns]="columns" cellsrenderer
+[pageable]="true" [autoheight]="true" [sortable]="true" 
+[altrows]="true"  [enabletooltips]="true"  [editable]="true"  [filterable]="true" [enabletooltips]="true"
+[selectionmode]="'multiplecellsadvanced'" [columngroups]="columngroups">
+</jqxGrid>
+<div style="font-size: 12px; font-family: Verdana; margin-top: 30px;">
+    <div #beginEdit></div>
+    <div #endEdit style="margin-top: 10px;"></div>
+</div>
+
+
+<!-- <jqxGrid #myGrid [theme]="'energyblue'" 
+
+[width]="getWidth()" [source]="dataAdapter" [columns]="columns" cellsrenderer
+[pageable]="true" [autoheight]="true" [sortable]="true" 
+[altrows]="true"  [enabletooltips]="true"  [editable]="true"  [filterable]="true" [enabletooltips]="true"
+[selectionmode]="'multiplecellsadvanced'" [columngroups]="columngroups">
+</jqxGrid>
+<div style="font-size: 12px; font-family: Verdana; margin-top: 30px;">
+    <div #beginEdit></div>
+    <div #endEdit style="margin-top: 10px;"></div>
+</div> -->
+
+
+
+
+
+  
+  
