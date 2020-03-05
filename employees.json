@@ -1,0 +1,260 @@
+{
+  "employees": [
+    {
+      "name": "Sreya",
+      "empid": "000pl",
+      "salary": 34000,
+      "age": 24,
+      "gender": "F",
+      "skillsets":[
+        {
+          "skill":"Oracle",
+          "level":"Experienced"
+        },
+        {
+          "skill":"DotNet",
+          "level":"Foundation"
+        },
+        {
+          "skill":"Java",
+          "level":"SME"
+        }
+        
+      ]
+    },
+    {
+      "name": "Bharath",
+      "empid": "000jk",
+      "salary": 10600,
+      "age": 27,
+      "gender": "M",
+      "skillsets":[
+        {
+          "skill":"Angular",
+          "level":"Experienced"
+        },
+        {
+          "skill":"oracle",
+          "level":"Experienced"
+        },
+        {
+          "skill":"DotNet",
+          "level":"Foundation"
+        }
+        
+      ]
+    },
+    {
+      "name": "Akhil",
+      "empid": "000zr",
+      "salary": 40000,
+      "age": 29,
+      "gender": "M",
+      "skillsets":[
+        {
+          "skill":"DotNet",
+          "level":"Experienced"
+        },
+        {
+          "skill":"Python",
+          "level":"SME"
+        },
+        {
+          "skill":"Oracle",
+          "level":"Experienced"
+        }
+        
+      ]
+    },
+    {
+      "name": "manisha",
+      "empid": "000I7",
+      "salary": 25000,
+      "age": 23,
+      "gender": "F",
+      "skillsets":[
+        {
+          "skill":"NodeJs",
+          "level":"Experienced"
+        },
+        {
+          "skill":"ReactJs",
+          "level":"Foundational"
+        },
+        {
+          "skill":"DotNet",
+          "level":"Experienced"
+        }
+        
+      ]
+    },
+    {
+      "name": "bunny",
+      "empid": "0007t",
+      "salary": 50000,
+      "age": 24,
+      "gender": "M"
+    },
+    {
+      "name": "jaffar",
+      "empid": "it09",
+      "salary": 5000,
+      "age": 45,
+      "gender": "M"
+    },
+    {
+      "name": "surekha",
+      "empid": "uy76",
+      "salary": 7866,
+      "age": 56,
+      "gender": "F"
+    },
+    {
+      "name": "keerthy",
+      "empid": "98tr",
+      "salary": 87689,
+      "age": 25,
+      "gender": "F"
+    },
+    {
+      "name": "Trudy",
+      "empid": "tst7864",
+      "salary": 400,
+      "age": 23,
+      "gender": "F"
+    },
+    {
+      "name": "prasanna kumar",
+      "empid": "98yt",
+      "salary": 900,
+      "age": 24,
+      "gender": "M"
+    },
+    {
+      "name": "kiran",
+      "empid": "yut98",
+      "salary": 7654,
+      "age": 56,
+      "gender": "M"
+    },
+    {
+      "name": "kamesh",
+      "empid": "765tre",
+      "salary": 567,
+      "age": 44,
+      "gender": "M"
+    },
+    {
+      "name": "sohail",
+      "empid": "897ty",
+      "salary": 7865,
+      "age": 56,
+      "gender": "M"
+    },
+    {
+      "name": "junaid",
+      "empid": "yu987",
+      "salary": 2345,
+      "age": 54,
+      "gender": "M"
+    },
+    {
+      "name": "prasad",
+      "empid": "89tyu",
+      "salary": 5678,
+      "age": 48,
+      "gender": "M"
+    },
+    {
+      "name": "prudhvi",
+      "empid": "89u74",
+      "salary": 878,
+      "age": 46,
+      "gender": "M"
+    },
+    {
+      "name": "narayana",
+      "empid": "908u67",
+      "salary": 8765,
+      "age": 46,
+      "gender": "M"
+    },
+    {
+      "name": "dhirubhai",
+      "empid": "908yu",
+      "salary": 7864,
+      "age": 45,
+      "gender": "M"
+    },
+    {
+      "name": "charan",
+      "empid": "987uy",
+      "salary": 45732,
+      "age": 67,
+      "gender": "F"
+    },
+    {
+      "name": "sudharshan",
+      "empid": "1151",
+      "salary": 40000,
+      "age": 25,
+      "gender": "M"
+    },
+    {
+      "name": "vijay",
+      "empid": "000evq",
+      "salary": 100000000000,
+      "age": 30,
+      "gender": "M"
+    },
+    {
+      "name": "Adhitya",
+      "empid": "ui890",
+      "salary": 4000000,
+      "age": 26,
+      "gender": "M"
+    },
+    {
+      "name": "Madhu Kumar",
+      "empid": "iop0",
+      "salary": 56789,
+      "age": 24,
+      "gender": "F"
+    },
+    {
+      "name": "check",
+      "empid": "56i90",
+      "salary": 456789,
+      "age": 34,
+      "gender": "M"
+    },
+    {
+      "name": "james bond",
+      "empid": "0007b",
+      "salary": 799999,
+      "age": 35,
+      "gender": "M"
+    },
+    {
+      "name": "krishna bhagvan",
+      "empid": "00i3t",
+      "salary": 45000,
+      "age": 40,
+      "gender": "M"
+    },
+    {
+      "name": "madhavi",
+      "empid": "009pu",
+      "salary": 45000,
+      "age": 36,
+      "gender": "F"
+    },
+    {
+      "name": "dhoni",
+      "empid": "msd07",
+      "salary": 560000,
+      "age": 34,
+      "gender": "M"
+    }
+  ]
+}
